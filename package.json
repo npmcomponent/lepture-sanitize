@@ -1,18 +1,11 @@
 {
-  "family": "lepture",
-  "name": "sanitize",
-  "version": "0.2.0",
+  "name": "lepture-sanitize",
   "description": "sanitize html for safety.",
-  "devDependencies": {
-    "component": "*",
-    "mocha-browser": "*"
-  },
-  "scripts": {
-    "test": "make test"
-  },
-  "spm": {
-    "output": [
-      "sanitize.js"
-    ]
-  }
+  "version": "0.2.0",
+  "keywords": [
+    "html",
+    "xss"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
